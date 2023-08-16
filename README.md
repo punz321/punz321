@@ -1,12 +1,12 @@
 ### Hello
 My name is Pankhuri Thakur and i am a CSE Undergrad based in India.
 
- 🌱 Currently learning NLP and working with APIs
- 👯 Looking to collaborate on open source projects
- 🤔 Need help for my chatbot
- ⚡ Interests include coding, sleeping and playing with cats
- 🧠 Proficient in Python, C++, HTML, CSS, JavaScript
- ✏️ Familiar with MySQL, Xampp, React
+ - 🌱 Currently learning NLP and working with APIs
+ - 👯 Looking to collaborate on open source projects
+ - 🤔 Need help for my chatbot
+ - ⚡ Interests include coding, sleeping and playing with cats
+ - 🧠 Proficient in Python, C++, HTML, CSS, JavaScript
+ - ✏️ Familiar with MySQL, Xampp, React
 
 💬 Reach out to me by email or LinkedIn: thakurpankhuri803@gmail.com | https://www.linkedin.com/in/pankhuri-thakur-95894a250/ 
 <!--
