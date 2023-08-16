@@ -8,7 +8,7 @@ My name is Pankhuri Thakur and i am a CSE Undergrad based in India.
 - 🧠 Proficient in Python, C++, HTML, CSS, JavaScript
 - ✏️ Familiar with MySQL, Xampp, React
 
-  💬 Reach out to me by email or LinkedIn: thakurpankhuri803@gmail.com | https://www.linkedin.com/in/pankhuri-thakur-95894a250/ 
+💬 Reach out to me by email or LinkedIn: thakurpankhuri803@gmail.com | https://www.linkedin.com/in/pankhuri-thakur-95894a250/ 
 <!--
 **punz321/punz321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
