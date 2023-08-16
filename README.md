@@ -1,7 +1,6 @@
 ### Hello
 My name is Pankhuri Thakur and i am a CSE Undergrad based in India.
 
-- 😄 Pronouns: She/They
 - 🌱 Currently learning NLP and working with APIs
 - 👯 Looking to collaborate on open source projects
 - 🤔 Need help for my chatbot
