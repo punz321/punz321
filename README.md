@@ -1,4 +1,4 @@
-### Hello
+### Hello, नमस्ते, Hola, Hallo, Bonjour, こんにちは !
 My name is Pankhuri Thakur and i am a CSE Undergrad based in India.
 
  - 🌱 Currently learning NLP and working with APIs
