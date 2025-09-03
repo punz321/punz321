@@ -1,7 +1,7 @@
 ### Hello :)
 My name is Pankhuri Thakur and I am a CSE Undergrad based in India.
 
- - 🌱 Currently working on a research paper for one of my projects
+ - 🌱 Published a research paper for one of my projects
  - 👯 Looking to collaborate on open source projects
  - ⚡ Interests include NLP, working with APIs, sleeping and cats
  - 🧠 Proficient in C++, Python, HTML and CSS
