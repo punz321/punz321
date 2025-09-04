@@ -1,5 +1,5 @@
 ### Hello :)
-My name is Pankhuri Thakur and I am a CSE Undergrad based in India.
+My name is Pankhuri and I am a CSE Undergrad based in India.
 
  - 🌱 Published a research paper for one of my projects
  - 👯 Looking to collaborate on open source projects
