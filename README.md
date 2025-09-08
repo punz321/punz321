@@ -1,11 +1,12 @@
 ### Hello :)
 My name is Pankhuri and I am a CSE Undergrad based in India.
 
- - 🌱 Published a research paper for one of my projects
- - 👯 Looking to collaborate on open source projects
- - ⚡ Interests include NLP, working with APIs, sleeping and cats
  - 🧠 Proficient in C++, Python, HTML and CSS
  - ✏️ Familiar with MySQL, Xampp
+ - ⚡ Interests include NLP, working with APIs, sleeping and cats
+ - 🌱 Published a research paper for one of my projects
+ - 👯 Looking to collaborate on open source projects
+
 <!--learning NLP and working with APIs-->
 💬 Reach out to me by email or LinkedIn: thakurpankhuri803@gmail.com | https://www.linkedin.com/in/pankhuri-thakur-95894a250/ 
 <!--
