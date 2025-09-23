@@ -8,7 +8,7 @@ My name is Pankhuri and I am a CSE Undergrad based in India.
  - 👯 Looking to collaborate on open source projects
 
 <!--learning NLP and working with APIs-->
-💬 Reach out to me by email or LinkedIn: thakurpankhuri803@gmail.com | https://www.linkedin.com/in/pankhuri-thakur-95894a250/ 
+💬 Reach out to me by email or LinkedIn: thakurpankhuri803@gmail.com
 <!--
 **punz321/punz321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
